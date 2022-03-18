@@ -1,10 +1,10 @@
 body {
-    background: #000000;
+    background: #ffffff;
 }
 
 .header {
     text-align: center;
-    color: rgb(153, 169, 216);
+    color: rgb(99, 99, 99);
 }
 
 
@@ -16,7 +16,7 @@ body {
 }
 .table {
     height: 100px;
-    border: 50px solid #000000;
+    border: 50px solid #ffffff;
     font-size: 20px;
 }
 
