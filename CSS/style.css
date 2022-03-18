@@ -2,10 +2,10 @@
     margin: 70px;
 }
 body {
-    background: rgb(49, 85, 187);
+    background: rgb(255, 255, 255);
 }   
 h1 {
-color: beige;
+color: rgb(255, 255, 255);
 font-size: 60px;
 letter-spacing: 7px;
 text-transform: uppercase;
@@ -36,7 +36,7 @@ h2 {
     letter-spacing: 5px;
 }
 p {
-    color: beige;
+    color: rgb(99, 99, 99);
 }
 #image1 {
     width: 700px;
@@ -68,7 +68,7 @@ p {
     font-family: 'Fira Sans', sans-serif;
 }
 .subtitle2 {
-    color: beige;
+    color: rgb(99, 99, 99);
     text-transform: uppercase;
     margin-left: 370px;
     letter-spacing: 4px;
